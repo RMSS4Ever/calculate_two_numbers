@@ -1,3 +1,4 @@
-# May 10, 2019 - Initial commit
+# Another piece of a puzzle to learn for creating my trade_calculator
 <br/>
-Another piece of a puzzle to learn for creating my trade_calculator app.
+
+May 10, 2019 - Initial commit
